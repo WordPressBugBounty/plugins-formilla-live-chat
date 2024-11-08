@@ -2,7 +2,7 @@
 Contributors: formilla-live-chat, zgilyana
 Tags: live chat, chat, chatbot, chat bot, livechat, chat plugin, live chat widget, chat widget, widget, chat online, online chat, mobile live chat, wordpress live chat, live support, customer support, chat plugin, plugin, woocommerce chat, wp chat, free live chat, free chat, live chat software
 Requires at least: 2.7
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
