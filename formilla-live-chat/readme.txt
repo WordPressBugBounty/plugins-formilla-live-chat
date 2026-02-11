@@ -2,7 +2,7 @@
 Contributors: formilla-live-chat, zgilyana
 Tags: live chat, chat, chatbot, chat bot, livechat, chat plugin, live chat widget, chat widget, widget, chat online, online chat, mobile live chat, wordpress live chat, live support, customer support, chat plugin, plugin, woocommerce chat, wp chat, free live chat, free chat, live chat software
 Requires at least: 2.7
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,7 +27,7 @@ Live chat software with real-time visitor monitoring and chatbots! Live chat wit
 
 * **Custom Chat Bots:** Chatbots work around the clock to automatically qualify leads, book meetings, and provide information about your products or services to customers, even without having to chat with a live person! Chatbots can be added to any Premium package as a paid feature add-on.  Check out our [Custom Chat Bot](https://www.formilla.com/blog/how-to-create-custom-chat-bots "Custom Chat Bot") tutorial to learn more.
 
-* **A.I. Chat Bots:** Formilla Chat bots allow customers to dramatically reduce support time by setting up a Chatbot that automatically responds to common visitor questions at any time -- day or night -- using the power of Artificial Intelligence (paid feature add-on).  Check out our [Helper Chat Bot](https://www.formilla.com/blog/getting-started-with-a-helper-chat-bot "Helper Chat Bot") tutorial to learn more.
+* **A.I. ChatGPT Bots:** ChatGPT Chatbots leverage ChatGPT's incredible Artificial Intelligence technology to respond to visitor questions 24/7 (paid feature add-on). You'll see a huge improvement in your staff's efficiency and dramatically boost customer satisfaction too. Check out our [ChatGPT Bots](https://blog.formilla.com/how-to-create-a-chatgpt-chatbot/ "ChatGPT Bots") tutorial to learn more.
 
 * **Pro-active Chat:** Enable pro-active chat to trigger automatically after a defined number of seconds (Premium packages). You can also configure a chatbot to do the same, with even more control over the user flow. For example, a chatbot can proactively popup to engage visitors and qualify them as leads before speaking with a live agent. This works with multiple types of custom chatbots you can create for your business.
 
@@ -120,7 +120,7 @@ Some of the popular chat bot use cases include:
 
 * **Frequently Asked Questions:** A custom menu-based bot can be used to preemptively answer frequently asked questions from site visitors.  For example, let’s say you have a conference event coming up and configure a live chat bot with pre-defined buttons where the visitor can quickly choose from topics such as ticket costs, directions to the event, parking tips, event schedule, guest speakers participating, nearby hotels, and more.  This can work for a virtual conference as well.
 
-* **Helper Bot:** A Helper Bot dramatically reduces support time by automatically responding to common visitor questions at any time -- day or night -- using the power of Artificial Intelligence. A Helper Bot is different from the other bot types since it allows visitors to enter a free-form question, and replies with the most relevant answer based on how it has been trained over time.
+* **ChatGPT Chatbot:** A ChatGPT Bot dramatically reduces support time by automatically responding to visitor questions at any time -- day or night -- using the power of ChatGPT's Artificial Intelligence. A ChatGPT Bot is different from the other bot types since it allows visitors to enter a free-form question, and replies with the most relevant answer based on how it has been trained over time.
 
 
 == Installation ==
